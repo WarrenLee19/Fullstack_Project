@@ -1,5 +1,5 @@
 # Fullstack_Project
-NodeJS+VueJS全栈开发项目-视频网站
+Vue3.0+nestjs全栈开发项目 - 视频网站
 ## 基于nestjs搭建的服务器端
 
 ## 1.环境配置
