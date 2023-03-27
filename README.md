@@ -4,8 +4,6 @@ Vue3.0+nestjs全栈开发项目 - 视频网站
 ## 基于vue3的vue-cli新建admin管理端
 ```shell
 cd admin
-pnpm install
-pnpm start
 ```
 
 ## 基于nestjs搭建的服务器端
